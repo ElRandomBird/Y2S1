@@ -15,8 +15,8 @@ body {
 }
 .header
 {
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 5%;
+    margin-right: 5%;
     padding : 40px;
     background: #4E5C3D;
     color: white;
@@ -25,10 +25,9 @@ body {
 }
 .mid
 {
-    margin-left: 400px;
-    margin-right: 400px;
+    margin-left: 15%;
+    margin-right: 15%;
     padding: 40px;
-    padding-bottom: 10000px;
     text-align: center;
     background: #4E5C3D;
     color: white;
