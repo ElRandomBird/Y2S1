@@ -20,7 +20,7 @@ body {
     padding : 40px;
     background: #4E5C3D;
     color: white;
-    font-size: 20px;
+    font-size: 150%;
     text-align: center;
 }
 .mid
@@ -31,9 +31,6 @@ body {
     text-align: center;
     background: #4E5C3D;
     color: white;
-    font-size: 20px;
+    font-size: 150%;
 
 }
-
-
-
